@@ -3,5 +3,7 @@ LongInt* toomKuk(LongInt x, LongInt y);
 LongInt* shenhage(LongInt x, LongInt y);
 LongInt* shtrassen(LongInt x, LongInt y);
 
-bool RabinMillerTest(long n, int k);
+bool RabinMillerTest(long long n, int k);
+
+bool SoloveyStrassen(long long n, int k);
 
